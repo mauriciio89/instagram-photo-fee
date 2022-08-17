@@ -1,0 +1,19 @@
+*{
+    font-family: verdana;
+    
+}
+
+body {
+    background-color: gray;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 960px;
+}
+
+h1 {
+    font-size: 300px;
+    text-align: center;
+}
+
